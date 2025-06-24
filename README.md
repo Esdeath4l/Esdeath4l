@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Full Stack development, and DevOps basics**
 - 👨‍💻 All of my projects are available at: [GitHub Portfolio](https://github.com/Esdeath4l)
-- 💬 Ask me about **Node.js, Express**
+- 💬 Ask me about **Node.js,Next.js ,Express**
 - 📫 Reach me at: **ritisulo@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://www.canva.com/design/DAGmlpneloA/GDUuLQUxxKRauOnkkr-dZQ/view?utm_content=DAGmlpneloA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h59a61aa47d)
 - ⚡ Fun fact: **I think I am funny (and sometimes my code agrees 🤪)**
