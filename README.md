@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at: [GitHub Portfolio](https://github.com/Esdeath4l)
 - 💬 Ask me about **Node.js,Next.js ,Express**
 - 📫 Reach me at: **ritisulo@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://www.canva.com/design/DAGmlpneloA/GDUuLQUxxKRauOnkkr-dZQ/view?utm_content=DAGmlpneloA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h59a61aa47d)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-Re4uDcH3FXGGKM3y_nZ2I4UNQSCnfV9/view?usp=sharing)
 - ⚡ Fun fact: **I think I am funny (and sometimes my code agrees 🤪)**
 
 ---
